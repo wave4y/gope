@@ -1,0 +1,8 @@
+# Local build and test outputs
+/bin/
+/dist/
+/coverage.out
+/coverage.html
+*.test
+*.test.exe
+*.prof
